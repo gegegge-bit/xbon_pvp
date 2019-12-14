@@ -1,0 +1,34 @@
+h1
+{
+     color: orange;
+}
+
+body
+{
+	background-color: black;
+}
+h2
+{
+	color: red 
+}
+h3
+{
+	color:brown
+        text-align: right
+}
+h4
+{    
+      color:orange
+
+
+
+}
+#carte
+{
+	
+		width: 800px;
+		margin:0 auto;
+		background-color: black;
+		text-align: center;
+		align-content: center;
+}
